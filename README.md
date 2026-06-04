@@ -13,33 +13,27 @@ ByteNetScanner is a suite of scripts designed for fast and efficient network dis
 6. Port Scanning.
 
 ## Required Dependencies:
-- Update the linux:
 ```bash
 sudo apt update
 ```
-- For installing Python 3:
 ```bash
 sudo apt install python3
 ```
-- For network scanning and traceroute functionality:
 ```bash
 sudo apt install python3-scapy
 ```
-- For making HTTP requests to get geolocation data:
 ```bash
 sudo apt install python3-requests
 ```
 ## Installation:
-- Clone the repository to your local machine:
+- Clone the repository:
 ```bash
 git clone https://github.com/neooverride/ByteNetScanner.git
 ```
-- Navigate into the project directory:
 ```bash
 cd ByteNetScanner
 ```
 ## Usage:
-Once the setup is complete, you can run the main.py script.
 ```bash
 sudo python3 main.py
 ```
