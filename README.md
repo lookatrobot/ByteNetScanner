@@ -36,5 +36,5 @@ cd ByteNetScanner
 ```bash
 sudo python3 main.py
 ```
-## 𓂃🖊 Future Enhancements:
+## Future Enhancements:
 I will update this project `ByteNetScanner` in the future to make it more advanced and capable of bypassing firewalls :))
