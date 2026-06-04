@@ -23,11 +23,11 @@ sudo apt install python3
 ```
 - For network scanning and traceroute functionality:
 ```bash
-pipx install scapy
+sudo apt install python3-scapy
 ```
 - For making HTTP requests to get geolocation data:
 ```bash
-pipx install requests
+sudo apt install python3-requests
 ```
 ## Installation:
 - Clone the repository to your local machine:
@@ -41,7 +41,7 @@ cd ByteNetScanner
 ## Usage:
 Once the setup is complete, you can run the main.py script.
 ```bash
-sudo python main.py
+sudo python3 main.py
 ```
 ## 𓂃🖊 Future Enhancements:
-I will update this project `ByteNetScanner` in the future to make it more advanced and capable of bypassing firewalls.
+I will update this project `ByteNetScanner` in the future to make it more advanced and capable of bypassing firewalls :))
