@@ -26,7 +26,6 @@ sudo apt install python3-scapy
 sudo apt install python3-requests
 ```
 ## Installation:
-- Clone the repository:
 ```bash
 git clone https://github.com/neooverride/ByteNetScanner.git
 ```
