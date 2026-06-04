@@ -5,12 +5,12 @@
 ByteNetScanner is a suite of scripts designed for fast and efficient network discovery, IP address validation, domain lookups, and much more.
 
 ## Features:
-1. Ping Sweep: Efficiently check the status of multiple IPs using a ping test, with support for CIDR notation, domain validation, and more.
-2. Active Host Enumeration: Identify live hosts in a network, including OS detection, MAC address retrieval, and ping-based host checks.
-3. DNS Lookup: Perform both forward and reverse DNS lookups for IPv4 and IPv6 addresses. Detect and handle multiple inputs and resolve unknown domains.
-4. Subnet Mask Discovery: Discover the subnet mask for a given range of IPs and calculate network masks.
-5. Traceout Analysis: Traceroute analysis using ICMP, TCP, or UDP protocols, with geolocation data for each hop and broadcast address detection.
-6. Port Scanning: Scan a range of ports on a target system using multi-threaded parallel scanning for speed.
+1. Ping Sweep.
+2. Active Host.
+3. DNS Lookup.
+4. Subnet Mask Discovery.
+5. Traceout Analysis.
+6. Port Scanning.
 
 ## Required Dependencies:
 - Update the linux:
